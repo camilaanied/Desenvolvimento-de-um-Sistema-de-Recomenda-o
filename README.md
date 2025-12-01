@@ -1,5 +1,7 @@
 Sistema de Recomendação de Filmes
 
+Grupo: Arthur Rocha e Camila Niederauer
+
 Este projeto implementa um Sistema de Recomendação baseado no dataset MovieLens 100k, utilizando filtragem colaborativa (User-Based Collaborative Filtering).
 
 Nele inclui:
@@ -230,4 +232,5 @@ Este projeto demonstra:
 - Testes unitários
 - Containerização com Docker
 - Documentação
+
 
